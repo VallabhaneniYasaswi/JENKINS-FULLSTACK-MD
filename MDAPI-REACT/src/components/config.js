@@ -1,5 +1,5 @@
 const config = {
-  url: "http://localhost:2005"   // change if deployed somewhere else
+  url: "http://localhost:2030/springbootmdapi"   // change if deployed somewhere else
 };
 
 export default config;
